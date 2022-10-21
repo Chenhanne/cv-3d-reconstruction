@@ -24,12 +24,42 @@ computer vision
 
 
 
+### 数据集整理
+#### MVS 重建数据集
+三维重建公开数据集整理（MVS篇）
 
-#### 特技
+发表论文请注意数据协议，如果您的项目使用了它们的版权，请注意它们的版权。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+固定翼无人机数据集https://www.sensefly.com/education/datasets/
+轻型固定观测公司sensefly公开的数据集，有RGB、多翼光谱、热红外。 
+
+
+著名的摄影测量公司 Pix4d 的公开数据集https://cloud.pix4d.com/demo
+在这里插入图片描述
+
+著名的摄影测量公司Aigsoft的公开数据集https://www.agisoft.com/downloads/sample-data/
+在这里插入图片描述
+
+著名的开源项目Colmap所公开的数据集http://colmap.github.io/datasets.html
+在这里插入图片描述
+
+著名的开源库OpenMVG所提供的公开数据集https://github.com/openMVG/Image_datasets
+在这里插入图片描述
+
+瑞士一家生产固定翼测绘地图的公司公开的数据集https://wingtra.com/pping-drone-wingtraone/aerial-map-types/
+在这里插入图片描述
+
+著名的Arcgis公司的公开数据集https://doc.arcgis.com/en/drone2map/get-started/sample-data.htm
+其中36张的大楼数据很经典 在这里插入图片描述
+
+一个集，比较文物保护的公开数据https://openheritage3d.org/data
+里面有RGB和激光雷达数据，有很多项目是RGB彩色数据的，但是大部分是提供数码相机，没有GPS或者RTK 在这里插入图片描述
+
+丹麦技术大学丹麦技术大学提供的公开数据集https://roboimagedata.compute.dtu.dk/?page_id=36
+难能贵的是他们的结构光扫描数据作为，还有不同的光线提供的变化，价值小视场的MVS重建真的很不错 在这里插入图片描述
+
+日本东北大学东北大学提供的公开数据集 http://www.aoki.ecei.tohoku.ac.jp/mvs/
+是小价值重建，只有拍摄的猫和狗的模型，同时提供了真正的拍摄效果 在这里插入图片描述
+
+港科大开源的数据集，有建筑、大规模、近景等各类数据https://github/YoYo000/BlendedMVS @@ Thanks to Yannnnnnnnn
