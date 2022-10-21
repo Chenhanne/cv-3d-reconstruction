@@ -54,6 +54,7 @@ computer vision
 
 - 港科大开源的数据集，有建筑、大规模、近景等各类数据https://github/YoYo000/BlendedMVS 
 
+#### 水下三维重建数据集
 - 开源代码：https://github.com/Atif-Anwer/UWKFusion 附带了它们自己的数据集
 与其配套的论文和视频：
 https://www.youtube.com/watch?v=E5GNbEN16uQ
@@ -63,8 +64,4 @@ https://ieeexplore.ieee.org/document/8000305
 - 水下拍摄的 Kinect 数据数据集
 已经获得了一个完整的数据集，其中包括水下扫描的各种物体。Kinect 的 RGB 和 IR 摄像头的数据与 KinectToF 生成的点云一起被捕获，并以 Microsoft 的扩展事件文件 (XEF) 文件格式保存，可与 Kinect Studio 应用程序一起使用。该数据集在 GNU GPL 3.0 许可下公开可用，可从以下链接下载：
 
-- 水下图像双谱重建
-https://github.com/yangggzhang/Underwater-Image-Bispectrum-Reconstruction
 
-- 水下受损图像重建
-https://github.com/yangxuxuxu/underwater-image-reconstruction
