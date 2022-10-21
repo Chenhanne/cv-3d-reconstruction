@@ -5,7 +5,7 @@ computer vision
 3d-reconstruction
 3d-underwater reconstruction
 
-### 中文论文
+### 论文
 - 刘舜; 徐亚楠 “	基于Retinex图像增强算法的水下三维重建研究” 工程勘察（2022）
 - 钟志; 郑云天; 张扬; 孙岩; 王霖郁 “基于单目视觉的水下目标三维重建实验设计” 实验技术与管理 （2022）
 - 庄苏锋; 屠大维; 张旭; 姚钦舟 “水下双目立体视觉对应点匹配与三维重建方法研究” 仪器表学报 （2022）
@@ -55,6 +55,7 @@ computer vision
 - 港科大开源的数据集，有建筑、大规模、近景等各类数据https://github/YoYo000/BlendedMVS 
 
 #### 水下三维重建数据集
+
 - 开源代码：https://github.com/Atif-Anwer/UWKFusion 附带了它们自己的数据集
 与其配套的论文和视频：
 https://www.youtube.com/watch?v=E5GNbEN16uQ
@@ -62,6 +63,10 @@ https://ieeexplore.ieee.org/document/8000305
 论文涵盖在论文文件夹中
 
 - 水下拍摄的 Kinect 数据数据集
-已经获得了一个完整的数据集，其中包括水下扫描的各种物体。Kinect 的 RGB 和 IR 摄像头的数据与 KinectToF 生成的点云一起被捕获，并以 Microsoft 的扩展事件文件 (XEF) 文件格式保存，可与 Kinect Studio 应用程序一起使用。该数据集在 GNU GPL 3.0 许可下公开可用，可从以下链接下载：
+已经获得了一个完整的数据集，其中包括水下扫描的各种物体。Kinect 的 RGB 和 IR 摄像头的数据与 KinectToF 生成的点云一起被捕获，并以 Microsoft 的扩展事件文件 (XEF) 文件格式保存，可与 Kinect Studio 应用程序一起使用。该数据集在 GNU GPL 3.0 许可下公开可用，可从以下链接下载：https://github.com/Atif-Anwer/UWKFusion
 
+### 评价标准
+- hamfer Distance 倒角距离
+- Earth Mover‘s Distance 般土距离
+- F-score
 
