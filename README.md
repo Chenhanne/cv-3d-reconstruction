@@ -101,10 +101,53 @@ computer vision
 70. A Height Correction Algorithm Applied in Underwater Photometric Stereo Reconstruction (Zeju Wu; Wenjing Liu; Jiaqi Wang; Xuhu Wang) https://ieeexplore.ieee.org/document/8567719
 
 - About 3d reconstruction
-
-
-  
-  
+1. Research on 3D Reconstruction Based on Multiple Views (Xu Chen; Qingfeng Wu; Shengzhe Wang) https://ieeexplore.ieee.org/document/8468705
+2. Automatic 3D Character Reconstruction from Frontal and Lateral Monocular 2D RGB Views (Alejandro Beacco; Jaime Gallego; Mel Slater) https://ieeexplore.ieee.org/document/9191091
+3. Low-cost 3D surface reconstruction using Stereo camera for small object (Agus Harjoko; Roghib Muhammad Hujja; Lukman Awaludin) https://ieeexplore.ieee.org/document/7967057
+4. 3D-ReConstnet: A Single-View 3D-Object Point Cloud Reconstruction Network (Bin Li; Yonghan Zhang; Bo Zhao; Hongyao Shao) https://ieeexplore.ieee.org/document/9086481
+5. Ground 3D Object Reconstruction Based on Multi-View 3D Occupancy Network using Satellite Remote Sensing Image (Hao Chen; Wen Chen; Tong Gao) https://ieeexplore.ieee.org/document/9554612
+6. A Survey of 3D Object Reconstruction Methods (Merve Gül Kantarci; Berk Gökberk; Lale Akarun) https://ieeexplore.ieee.org/document/9864922
+7. 3D Fingerprint Recognition based on Ridge-Valley-Guided 3D Reconstruction and 3D Topology Polymer Feature Extraction (Xuefei Yin; Yanming Zhu; Jiankun Hu) https://ieeexplore.ieee.org/document/8887282
+8. Incremental SFM 3D reconstruction based on monocular (Hengyu Yin; Hongyang Yu) https://ieeexplore.ieee.org/document/9325807
+9. The impact of intermediate video frames reconstruction step on the result of 3D reconstruction of objects (Yuliya Ganeeva; Vladislav Myasnikov) https://ieeexplore.ieee.org/document/9848697
+10. 3D Face Reconstruction Based on Convolutional Neural Network (Li Fangmin; Chen Ke; Liu Xinhua) https://ieeexplore.ieee.org/document/8089906
+11. CT Reconstruction from Limited-View Cone-Beam Projections Using 3D Image Moments (Kaikai Xu; Xiubin Dai) https://ieeexplore.ieee.org/document/8110287
+12. Virtual Reconstruction and 3D Visualization of Vostok Spacecraft Equipment (Dmitry Shcherbinin) https://ieeexplore.ieee.org/document/8070661
+13. Novel Single View Constraints for Manhattan 3D Line Reconstruction (Siddhant Ranade; Srikumar Ramalingam) https://ieeexplore.ieee.org/document/8491015
+14. Research on 3D Periodontal Reconstruction Algorithm Based on Point Cloud Reconstruction( Fang Gao; Guo-wang Gao; Dan Wu; Fei Wang) https://ieeexplore.ieee.org/document/9859147
+15. A Rooftop-Contour Guided 3D Reconstruction Texture Mapping Method for Building using Satellite Images (Wei Zhang; Hao Chen; Wen Chen; Shuting Yang) https://ieeexplore.ieee.org/document/9883969
+16. 3D-FHNet: Three-Dimensional Fusion Hierarchical Reconstruction Method for Any Number of Views (Qiang Lu; Yiyang Lu; Mingjie Xiao; Xiaohui Yuan; Wei Jia) https://ieeexplore.ieee.org/document/8910604
+17. A performance evaluation of keypoints detection methods SIFT and AKAZE for 3D reconstruction (Kouta Yamada; Akio Kimura) https://ieeexplore.ieee.org/document/8369647
+18. Reconstruction of As-is Semantic 3D Models of Unorganised Storehouses (Antonio Adan; David De La Rubia) https://ieeexplore.ieee.org/document/8885868
+19. The 2nd 3D Face Alignment in the Wild Challenge (3DFAW-Video): Dense Reconstruction From Video (Rohith Krishnan Pillai; László Attila Jeni; Huiyuan Yang; Zheng Zhang; Lijun Yin; Jeffrey F. Cohn) https://ieeexplore.ieee.org/document/9022602
+20. Three-dimensional (3D) Reconstruction of Range Gated Imaging (Sing Yee Chua; Kuew Wai Chew; Ningqun Guo; Xin Wang) https://ieeexplore.ieee.org/document/8533195
+21. 3D Reconstruction and Object Detection for HoloLens (Zequn Wu; Tianhao Zhao; Chuong Nguyen) https://ieeexplore.ieee.org/document/9363378 
+22. Outdoor 3D Environment Reconstruction based on Multi-sensor Fusion for Remote Control (Chen Chen; Guangming Xiong; Sen Zhu) https://ieeexplore.ieee.org/document/8785774
+23. 3D Sonar Image Reconstruction Based on Multilayered Mesh Search and Triangular Connection (Zhihua Li; Bin Qi; Chenbin Li) https://ieeexplore.ieee.org/document/8530181
+24. High-density 3D reconstruction in a Large space using single camera and 2D LiDAR (Sangha Oh; Soon-Yong Park) https://ieeexplore.ieee.org/document/9798898
+25. A Dataset-Dispersion Perspective on Reconstruction Versus Recognition in Single-View 3D Reconstruction Networks (Yefan Zhou; Yiru Shen; Yujun Yan; Chen Feng; Yaoqing Yang) https://ieeexplore.ieee.org/document/9665835
+26. Patch-Based Non-rigid 3D Reconstruction from a Single Depth Stream (Carmel Kozlov; Miroslava Slavcheva; Slobodan Ilic) https://ieeexplore.ieee.org/document/8490954
+27. Data-Driven 3D Reconstruction of Dressed Humans From Sparse Views (Pierre Zins; Yuanlu Xu; Edmond Boyer; Stefanie Wuhrer; Tony Tung) https://ieeexplore.ieee.org/document/9665901
+28. Region-based growing algorithm for 3D reconstruction from MRI images (Baijiang Fan; Yunbo Rao; Wei Liu; Qifei Wang; Huaiyu Wen) https://ieeexplore.ieee.org/document/7984610
+29. A Deep Learning Embedded System for 3D Human Face Shape Reconstruction From a Single Image (Shima Kamyab; Hamed Taghadosi; Zohreh Azimifar)  https://ieeexplore.ieee.org/document/9780484
+30. A survey on the current state of the art on deep learning 3D reconstruction (Bogdan Maxim; Sergiu Nedevschi) https://ieeexplore.ieee.org/document/9733639
+31. 3D Digital Reconstruction of Heritage Artifacts: Parametric Evaluation (Harsha Desu; Rajkumar Gothandaraman; Sreekumar Muthuswamy) https://ieeexplore.ieee.org/document/8939087
+32. Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements (Yu Rong; Jingbo Wang; Ziwei Liu; Chen Change Loy) https://ieeexplore.ieee.org/document/9665866
+33. Monocular Microscopic Image 3D Reconstruction Algorithm based on Depth from Defocus with Adaptive Window Selection (Minghao Shang; Tingna Kuang; Haiyang Zhou; Feihong Yu) https://ieeexplore.ieee.org/document/9204016
+34. PeeledHuman: Robust Shape Representation for Textured 3D Human Body Reconstruction (Sai Sagar Jinka; Rohan Chacko; Avinash Sharma; P.J. Narayanan) https://ieeexplore.ieee.org/document/9320367
+35. Weakly Supervised 3D Reconstruction with Adversarial Constraint (JunYoung Gwak; Christopher B. Choy; Manmohan Chandraker; Animesh Garg; Silvio Savarese) https://ieeexplore.ieee.org/document/8374579
+36. Compact Model Representation for 3D Reconstruction (Jhony Kaesemodel Pontes; Chen Kong; Anders Eriksson; Clinton Fookes; Sridha Sridharan; Simon Lucey)  https://ieeexplore.ieee.org/document/8374561
+37. 3D Scene Reconstruction from RGB Images Using Dynamic Graph Convolution for Augmented Reality (Tzu-Hsuan Weng; Robin Fischer; Li-Chen Fu) https://ieeexplore.ieee.org/document/9757436
+38. Reconstruction or Retrieval? Investigating Neural 3D Reconstruction (Bhargava Gowda; Burkhard C. Wünsche; Alex Shaw) https://ieeexplore.ieee.org/document/9653224
+39. 3D Reconstruction Method Based on Aerial Sequence of UAV (Xingzhu Qu; Jian Zhao; Yuanyuan Sun; Lele Wang) https://ieeexplore.ieee.org/document/9478657
+40. VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion (Noah Stier; Alexander Rich; Pradeep Sen; Tobias Höllerer) https://ieeexplore.ieee.org/document/9665948
+41. Reconstruction and Upscaling of 3D Models from Single or Multiple Views (Aditya Gunjal; Atharva Kulkarni; Chinmay Joshi; Ketaki Gokhale)  https://ieeexplore.ieee.org/document/9718448
+42. Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction (Baris Gecer; Stylianos Ploumpis; Irene Kotsia; Stefanos Zafeiriou)  https://ieeexplore.ieee.org/document/9442802
+43. Low Restriction 3D Reconstruction Based on Uniaxial MEMS Fringe Projection Profilometry (Yichao Liu; Huai Wang; Yujian Long; Ming Sha) https://ieeexplore.ieee.org/document/9770264
+44. Robust 3D Reconstruction Using HDR-Based SLAM (Chia-Hung Yeh; Min-Hui Lin) https://ieeexplore.ieee.org/document/9321394
+45. Face Landmark Calibration Based on 3D Reconstruction and Deep Learning (Boyang Hu; Jinzhao Deng; Dan Li; Zhou Long; Wenhao Sun; Xiaoping Zhang; Jiaqing Yan) https://ieeexplore.ieee.org/document/9858436
+46. Image-Based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era (Xian-Feng Han; Hamid Laga; Mohammed Bennamoun) https://ieeexplore.ieee.org/document/8908779
+47. Multiple Point Light Estimation from Low-Quality 3D Reconstructions (Mike Kasper; Christoffer Heckman) https://ieeexplore.ieee.org/document/8885417
   
 
 ### 数据集整理
