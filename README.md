@@ -22,8 +22,8 @@ computer vision
 - 董会; 孔倩倩; 温亚楠; 杨宇 “水下目标彩色三维重建方法研究” 光电技术应用 （2017）
 - 王凯旋 “水下环境中基于双目立体视觉的三维重建算法” 燕山大学 （2017）
 
-####英文论文
-** About underwater 3d reconstrction**
+### 英文论文
+- About underwater 3d reconstrction
 1. Comparative study of two 3D reconstruction methods for underwater archaeology：
   https://www.webofscience.com/wos/alldb/full-record/WOS:000317042701045
 2. Real-time underwater 3D scene reconstruction using commercial depth sensor：Atif Anwer; Syed Saad Azhar Ali; Amjad Khan; Fabrice Mériaudeau
@@ -100,22 +100,7 @@ computer vision
 69. 3D reconstruction of line features using multi-view acoustic images in underwater environment (Ngoc Trung Mai; Hanwool Woo; Yonghoon Ji; Yusuke Tamura; Atsushi Yamashita; Hajime Asama) https://ieeexplore.ieee.org/document/8170447
 70. A Height Correction Algorithm Applied in Underwater Photometric Stereo Reconstruction (Zeju Wu; Wenjing Liu; Jiaqi Wang; Xuhu Wang) https://ieeexplore.ieee.org/document/8567719
 
-** About 3d reconstruction**
-71. 
-72. 
-73. 
-74.
-75. 
-76. 
-77. 
-78. 
-79.
-80. 
-81. 
-82. 
-83. 
-84. 
-85. 
+- About 3d reconstruction
 
 
   
