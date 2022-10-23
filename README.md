@@ -195,4 +195,6 @@ computer vision
 - hamfer Distance 倒角距离
 - Earth Mover‘s Distance 般土距离
 - F-score
+-精确指标
 
+- 性能指标
